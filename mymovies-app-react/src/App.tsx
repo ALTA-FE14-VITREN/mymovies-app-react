@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div>
         <Navbar />
-        <h1 className="text-center font-bold underline">YUYUNA FILM</h1>
+        <h1 className="text-center font-bold underline text-white">YUYUNA FILM</h1>
 
         <div className="m-10 flex flex-row gap-5 item-center">
           <Card id="film" title="John Wick: Chapter 4" release="chapter 4" image="https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" />

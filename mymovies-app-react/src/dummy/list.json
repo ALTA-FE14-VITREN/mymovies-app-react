@@ -1,0 +1,58 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "JOHN WICK",
+      "image": "https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "release": "oktober"
+    },
+    {
+      "id": 2,
+      "title": "Fast x",
+      "image": "https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",
+      "release": "januari"
+    },
+    {
+      "id": 3,
+      "title": "SISU",
+      "image": "https://image.tmdb.org/t/p/w500//pnQYjDxqZ3C6reI8N0MfNi4NMkZ.jpg",
+      "release": "maret"
+    },
+    {
+      "id": 4,
+      "title": "The MOTHER",
+      "image": "https://image.tmdb.org/t/p/w500//vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
+      "release": "20 maret 2022s"
+    },
+    {
+      "id": 5,
+      "title": "THE WANDERING EARTH",
+      "image": "https://image.tmdb.org/t/p/w500//pR858ihc6Ls9xohpdRJVjV787ml.jpg",
+      "release": "26 agustus 2020"
+    },
+    {
+      "id": 4,
+      "title": "SISU",
+      "image": "https://image.tmdb.org/t/p/w500//pnQYjDxqZ3C6reI8N0MfNi4NMkZ.jpg",
+      "release": "20 maret 2022s"
+    },
+    {
+      "id": 4,
+      "title": "The BEST MAN",
+      "image": "https://image.tmdb.org/t/p/w500//c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg",
+      "release": "20 maret 2022s"
+    },
+    {
+      "id": 4,
+      "title": "FAST X",
+      "image": "https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",
+      "release": "20 maret 2022s"
+    },
+    {
+      "id": 4,
+      "title": "The SUPER MARIO BROS",
+      "image": "https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "release": "20 maret 2022s"
+    }
+  ]
+}
