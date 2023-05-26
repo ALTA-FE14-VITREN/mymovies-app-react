@@ -8,7 +8,7 @@ class Home extends Component {
     return (
       <div>
         <Navbar />
-        <div className="m-10 gap-y-5 gap-x-5 flex flex-row">
+        <div className="m-10 gap-y-5 gap-x-5 flex flex-row flex-wrap">
           {list
             ? list.map((item, index) => {
                 return <Card key={index} id="list" image={item.image} title={item.title} release={item.release} />;

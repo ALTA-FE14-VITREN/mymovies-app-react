@@ -17,7 +17,7 @@ class CardDetail extends Component<DetailCardFilmProps> {
           </figure>
           <div className="card-body text-white">
             <h2 className="card-title">{title}</h2>
-            <p>Click the button to listen on Spotiwhy app.</p>
+            <p>{release}</p>
             <div className="card-actions justify-end">
               <button className="btn btn-primary">Play</button>
             </div>
